@@ -1,0 +1,1 @@
+Sitemap: https://example.github.io/Techne-TA-Schedule/sitemap.xml
