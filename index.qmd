@@ -23,10 +23,6 @@ lastUpdated: "Oct 1, 2026"
 | Sunday    | 12:00 - 1:00 PM  | South Side Hamilton Center | In person |
 :::
 
-::: {.callout-important appearance="simple" icon="false"}
-**Exam weeks:** Extra review sessions are announced in class and on the course site. If the regular hours above conflict with a review session, the review session wins — check here for updates.
-:::
-
 ## Where to Find Me {#location}
 
 - **In person:** South side of the Hamilton Center. Either in the old mailroom or just outside it.
