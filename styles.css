@@ -1,0 +1,54 @@
+/* layout and component polish */
+
+.hero {
+  font-size: 1.1rem;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0 2rem;
+  border-left: 5px solid #1f5fa8;
+  background: rgba(31, 95, 168, 0.06);
+  border-radius: 0.5rem;
+}
+
+.hero strong {
+  display: block;
+  font-size: 1.35rem;
+  margin-bottom: 0.35rem;
+}
+
+section#office-hours .callout,
+section .callout {
+  margin-top: 1.25rem;
+}
+
+.small-note {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.35);
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+table {
+  font-size: 1rem;
+}
+
+/* keep tables readable on small screens */
+.table-responsive,
+table {
+  display: table;
+}
+
+@media (max-width: 767px) {
+  body {
+    font-size: 16px;
+  }
+
+  .hero {
+    padding: 1rem;
+  }
+}
+
+/* FAQ headings a bit tighter */
+section#faq h2 {
+  margin-bottom: 1rem;
+}

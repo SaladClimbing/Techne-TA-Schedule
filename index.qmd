@@ -1,0 +1,68 @@
+---
+title: "TA Office Hours"
+subtitle: "Techne — Fall 2026"
+lastUpdated: "Oct 1, 2026"
+---
+
+::: {.hero}
+**Hi, I'm your TA.** This page has everything you need: when I'm available, where to find me, how to get help between sessions, and answers to the questions students ask most.
+:::
+
+## Office Hours {#office-hours}
+
+::: {.callout-tip appearance="simple" icon="false"}
+### Weekly schedule — Fall 2026
+
+| Day       | Time             | Location            | Format         |
+|-----------|------------------|---------------------|----------------|
+| Tuesday   | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
+| Wednesday | 7:00 - 9:00 PM   | South Side Hamilton Center | In person |
+| Thursday  | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
+| Friday    | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
+| Saturday  | 12:00 - 1:00 PM  | South Side Hamilton Center | In person |
+| Sunday    | 12:00 - 1:00 PM  | South Side Hamilton Center | In person |
+:::
+
+::: {.callout-important appearance="simple" icon="false"}
+**Exam weeks:** Extra review sessions are announced in class and on the course site. If the regular hours above conflict with a review session, the review session wins — check here for updates.
+:::
+
+## Where to Find Me {#location}
+
+- **In person:** South side of the Hamilton Center. Either in the old mailroom or just outside it.
+- **Online:** A link will be posted and an announcement will be made if a session moves to online or if a new online session is added.
+
+## Contact {#contact}
+
+| Channel   | Details                              | Response time |
+|-----------|--------------------------------------|---------------|
+| Email     | a.lucas28@ncf.edu                    | Within 1 business day |
+| Course site | Post on the discussion forum first — others benefit from the answer | Checked daily |
+| In person | During office hours                  | Immediately    |
+
+::: {.callout-warning appearance="simple" icon="false"}
+For grading disputes or personal matters, email me directly rather than posting publicly.
+:::
+
+## FAQ {#faq}
+
+**Do I need to book a time?**
+Not for any hours listed above. Feel free to book time with me if you would like 1 on 1 time.
+
+**I can't make any of your hours. What now?**
+Email me with 2–3 windows that work for you and I'll find a slot, or post your question on the course forum.
+
+**Can I come with a group?**
+Yes — group work is encouraged.
+
+**Will you do my homework for me?**
+No, but I'll happily talk through the concepts, point you to the right notes, and review your approach.
+
+**How do I get updates when hours change?**
+This page is the source of truth. Changes are announced in class and reflected here.
+
+---
+
+::: {.small-note}
+Schedule subject to change during the semester. If something on this page looks out of date, email me and I'll fix it.
+:::

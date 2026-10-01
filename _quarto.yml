@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Techne — TA Office Hours"
+  site-url: "https://example.github.io/Techne-TA-Schedule"
+  repo-url: "https://github.com/andrewlucas/Techne-TA-Schedule"
+  repo-actions: [edit, issue]
+  page-footer:
+    left: "Questions? See the Contact section above."
+    right: "Last updated: October 1, 2026"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#office-hours
+        text: Hours
+      - href: index.qmd#location
+        text: Where to Find Me
+      - href: index.qmd#contact
+        text: Contact
+      - href: index.qmd#faq
+        text: FAQ
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      light: [litera, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-copy: false
+    anchor-sections: true
+    link-external-newwindow: true
+    page-layout: full
+
+editor: visual
