@@ -3,12 +3,12 @@ project:
 
 website:
   title: "Techne — TA Office Hours"
-  site-url: "https://example.github.io/Techne-TA-Schedule"
-  repo-url: "https://github.com/andrewlucas/Techne-TA-Schedule"
+  site-url: "https://SaladClimbing.github.io/Techne-TA-Schedule"
+  repo-url: "https://github.com/SaladClimbing/Techne-TA-Schedule"
   repo-actions: [edit, issue]
   page-footer:
     left: "Questions? See the Contact section above."
-    right: "Last updated: October 1, 2026"
+    right: "Last updated: October 3, 2026"
   navbar:
     pinned: true
     left:
