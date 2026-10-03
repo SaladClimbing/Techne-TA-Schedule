@@ -4,10 +4,6 @@ subtitle: "Techne — Fall 2026"
 lastUpdated: "Oct 1, 2026"
 ---
 
-::: {.hero}
-**Hi, I'm your TA.** This page has everything you need: when I'm available, where to find me, how to get help between sessions, and answers to the questions students ask most.
-:::
-
 ## Office Hours {#office-hours}
 
 ::: {.callout-tip appearance="simple" icon="false"}
@@ -37,7 +33,7 @@ lastUpdated: "Oct 1, 2026"
 | In person | During office hours                  | Immediately    |
 
 ::: {.callout-warning appearance="simple" icon="false"}
-For grading disputes or personal matters, email me directly rather than posting publicly.
+For personal matters, email me directly rather than posting publicly.
 :::
 
 ## FAQ {#faq}
