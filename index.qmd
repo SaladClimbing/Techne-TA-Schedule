@@ -1,7 +1,7 @@
 ---
 title: "TA Office Hours"
 subtitle: "Techne — Fall 2026"
-lastUpdated: "Oct 1, 2026"
+lastUpdated: "Oct 23, 2026"
 ---
 
 ## Office Hours {#office-hours}
@@ -11,12 +11,12 @@ lastUpdated: "Oct 1, 2026"
 
 | Day       | Time             | Location            | Format         |
 |-----------|------------------|---------------------|----------------|
-| Tuesday   | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
-| Wednesday | 7:00 - 9:00 PM   | South Side Hamilton Center | In person |
-| Thursday  | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
-| Friday    | 5:30 – 6:30 PM   | South Side Hamilton Center | In person |
-| Saturday  | 12:00 - 1:00 PM  | South Side Hamilton Center | In person |
-| Sunday    | 12:00 - 1:00 PM  | South Side Hamilton Center | In person |
+| Tuesday   | 5:30 – 6:30 PM   | SSC/ARC in the Library | In person |
+| Wednesday | 7:00 - 9:00 PM   | SSC/ARC in the Library | In person |
+| Thursday  | 5:30 – 6:30 PM   | SSC/ARC in the Library | In person |
+| Friday    | 5:30 – 6:30 PM   | SSC/ARC in the Library | In person |
+| Saturday  | 12:00 - 1:00 PM  | Library | In person |
+| Sunday    | 12:00 - 1:00 PM  | SSC/ARC in the Library | In person |
 :::
 
 ## Where to Find Me {#location}
