@@ -12,7 +12,7 @@ lastUpdated: "Nov 5, 2026"
 | Day       | Time             | Location            | Format         |
 |-----------|------------------|---------------------|----------------|
 | Tuesday   | 5:30 – 6:30 PM   | ARC in the Library | In person |
-| Wednesday | 7:00 - 9:00 PM   | ARC in the Library | In person |
+| Wednesday | 5:00 - 7:00 PM   | South Side of Hamilton | In person |
 | Thursday  | 5:30 – 6:30 PM   | ARC in the Library | In person |
 | Friday    | 5:30 – 6:30 PM   | ARC in the Library | In person |
 | Saturday  | 12:00 - 1:00 PM  | South Side of Hamilton | In person |
