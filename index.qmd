@@ -1,7 +1,7 @@
 ---
 title: "TA Office Hours"
 subtitle: "Techne — Fall 2026"
-lastUpdated: "Nov 5, 2026"
+lastUpdated: "Nov 18, 2026"
 ---
 
 ## Office Hours {#office-hours}
